@@ -1,4 +1,4 @@
-package cn.itcast.day10.demo03;
+package demo03;
 
 /*
 1. 类与类之间是单继承的。直接父类只有一个。

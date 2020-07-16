@@ -1,4 +1,4 @@
-package cn.itcast.day10.demo02;
+package demo02;
 
 public class MyInterfaceImpl /*extends Object*/ implements MyInterfaceA, MyInterfaceB {
 

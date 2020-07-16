@@ -1,4 +1,4 @@
-package cn.itcast.day10.demo03;
+package demo03;
 
 /*
 这个子接口当中有几个方法？答：4个。

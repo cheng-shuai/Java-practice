@@ -1,4 +1,4 @@
-package cn.itcast.day10.demo02;
+package demo02;
 
 /*
 使用接口的时候，需要注意：

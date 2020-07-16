@@ -1,4 +1,4 @@
-package cn.itcast.day10.demo03;
+package demo03;
 
 public class MyInterfaceImpl implements MyInterface {
     @Override
