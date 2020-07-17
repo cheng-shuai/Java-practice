@@ -1,4 +1,4 @@
-package cn.itcast.day10.demo04;
+package demo04;
 
 public class Fu {
 

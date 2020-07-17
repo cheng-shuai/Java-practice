@@ -1,4 +1,4 @@
-package cn.itcast.day10.demo07;
+package demo07;
 
 public interface USB {
 

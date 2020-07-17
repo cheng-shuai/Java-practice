@@ -1,4 +1,4 @@
-package cn.itcast.day10.demo05;
+package demo05;
 
 /*
 在多态的代码当中，成员方法的访问规则是：

@@ -1,4 +1,4 @@
-package cn.itcast.day10.demo07;
+package demo07;
 
 // 键盘就是一个USB设备
 public class Keyboard implements USB {

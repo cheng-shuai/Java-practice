@@ -1,4 +1,4 @@
-package cn.itcast.day10.demo05;
+package demo05;
 
 public class Fu /*extends Object*/ {
 

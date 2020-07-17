@@ -1,4 +1,4 @@
-package cn.itcast.day10.demo07;
+package demo07;
 
 // 鼠标就是一个USB设备
 public class Mouse implements USB {

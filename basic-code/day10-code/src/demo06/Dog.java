@@ -1,4 +1,4 @@
-package cn.itcast.day10.demo06;
+package demo06;
 
 public class Dog extends Animal {
     @Override

@@ -1,4 +1,4 @@
-package cn.itcast.day10.demo04;
+package demo04;
 
 /*
 代码当中体现多态性，其实就是一句话：父类引用指向子类对象。

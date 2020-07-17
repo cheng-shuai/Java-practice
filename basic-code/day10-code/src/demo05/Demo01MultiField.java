@@ -1,4 +1,4 @@
-package cn.itcast.day10.demo05;
+package demo05;
 
 /*
 访问成员变量的两种方式：
