@@ -1,4 +1,7 @@
 package demo01.WaitAndNotify;
+
+import demo01.WaitAndNotify.BaoZi;
+
 /*
     生产者(包子铺)类:是一个线程类,可以继承Thread
 	设置线程任务(run):生产包子
