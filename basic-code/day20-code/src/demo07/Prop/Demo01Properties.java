@@ -76,7 +76,7 @@ public class Demo01Properties {
         prop.setProperty("古力娜扎","160");
 
         //2.创建字节输出流/字符输出流对象,构造方法中绑定要输出的目的地
-        //FileWriter fw = new FileWriter("09_IOAndProperties\\prop.txt");
+        //FileWriter fw = nileWriter("09_IOAndPropertew Fies\\prop.txt");
 
         //3.使用Properties集合中的方法store,把集合中的临时数据,持久化写入到硬盘中存储
         //prop.store(fw,"save data");
